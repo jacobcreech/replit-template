@@ -1,4 +1,4 @@
-# legacy-solana-nextjs
+# solana-nextjs
 
 ## Getting Started
 
